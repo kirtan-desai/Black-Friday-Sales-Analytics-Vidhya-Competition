@@ -7,7 +7,7 @@ The data set also contains customer demographics (age, gender, marital status, c
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
 ## Data
-
+![Data](/Data description.png)
 
 ## Evaluation Metric
 RMSE
